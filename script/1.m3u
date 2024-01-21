@@ -17,6 +17,22 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png" group-title="Lokal",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 
+#EXTINF:0,BATU TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:0,JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:0,JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:0,Simpang 5 TV
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
+#EXTINF:0,SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+
 #EXTINF:-1 tvg-id="dmtvmalang.id" tvg-logo="http://i.imgur.com/KeaeR1g.png" group-title="Lokal",DMTV
 http://h1.intechmedia.net/intech/ch51.m3u8
 
